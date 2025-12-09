@@ -15,6 +15,8 @@ const maxAttempts = 15; // 최대 시도횟수
 
 function startGame() {
     answer = generateNumbers();
+    attempts = 0;
+
     console.log("=======================");
     console.log("숫자 야구 게임");
     console.log("=======================");
