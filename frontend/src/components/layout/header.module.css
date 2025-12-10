@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    align-items: center;
+    padding: 18px 10px;
+    gap: 12px;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button:hover {
+    background: #d1d1d1;
+    border-radius: 6px;
+}
