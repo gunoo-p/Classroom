@@ -1,4 +1,4 @@
-﻿지역,소재부품장비코드,소재부품장비코드명,사업체수,종업원수,부가가치세금액_백만원,생산금액_백만원,출하금액_백만원,재고금액_백만원
+﻿"region","mpe_category_name","mpe_code","num_establishments","num_employees","value_added_million_krw","production_amount_million_krw","shipment_amount_million_krw","inventory_amount_million_krw"
 서울,소재부품장비,00000,794,20277,2825634,6876555,6821535,392365
 서울,소재,10000,128,3184,724222,1706433,1684568,103030
 서울,섬유제품,11000,63,1136,198681,751660,753276,25229
