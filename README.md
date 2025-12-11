@@ -17,3 +17,4 @@
 - csv 수정본 데이터 붙혀넣기
 - 폴더구조 수정
 - db/connect.js랑 api/api.js 추가 / ESLint (안쓰는 라이브러리 같은 거 자동으로 삭제 시켜줌) 설치, Prettier 설치
+- Header, Sidebar Components 추가
